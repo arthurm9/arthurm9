@@ -29,10 +29,10 @@
   
   ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/arthurm9/CarShop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurm9&repo=CarShop&theme=github_dark&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurm9&repo=CarShop&theme=github_dark&show_owner=true" />
 </a>
 <a href="https://github.com/arthurm9/CarApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurm9&repo=CarApp&theme=github_dark&show_owner=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurm9&repo=CarApp&theme=github_dark&show_owner=true" />
 </a>
 
 </div>
