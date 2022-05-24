@@ -1,10 +1,15 @@
-### <i>🇧🇷</i> Olá, eu sou o Arthur Marques, estudante de Desenvolvimento de Sistemas!
-## <i>🇺🇸</i> Hello, i'm Arthur Marques, Systems Development student!
+<h3 align="center"> Olá, eu sou o Arthur Marques, estudante de Desenvolvimento de Sistemas! </h3>
 
-- 🏫 I’m currently studying for Centro Paula Souza - ETEC "Cidade do Livro"
-- 🧠 I’m currently learning various programming languages
-- 📫 How to reach me: arthurmarquesoliveira001@gmail.com
-- 🚀 <i><strong>I'm getting better...</strong></i>
+
+<h2 align="center"> Hello, i'm Arthur Marques, Systems Development student! </h2>
+
+-------
+
+- 🏫 Centro Paula Souza - ETEC "Cidade do Livro"
+- 🧠 Learning various programming languages
+- 📫 arthurmarquesoliveira001@gmail.com
+  
+-------
 
 <div align="center">
   <a href="https://github.com/arthurm9">
@@ -26,6 +31,8 @@
   <a href="https://twitter.com/lrdarthur" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/m9arthur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arthur-marques-937148232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  -------
   
   ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/arthurm9/CarShop">
