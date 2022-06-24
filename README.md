@@ -33,7 +33,6 @@
 #### `` Social ``
   
 <div align="center">
-  <a href="https://twitter.com/lrdarthur" target="_blank"><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black"/></a> 
   <a href="https://www.instagram.com/m9arthur/" target="_blank"><img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black"/></a>
   <a href="https://www.linkedin.com/in/arthur-marques-937148232/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a> 
 </div>
