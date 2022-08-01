@@ -7,7 +7,6 @@
 
   - Centro Paula Souza - ETEC "Cidade do Livro" - Stage 2/3
   - E-mail: arthurmarquesoliveira001@gmail.com
-  - I'm 17
   
 -------
 #### `` Technologies ``
