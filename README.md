@@ -7,8 +7,9 @@
 
   -> Centro Paula Souza - ETEC Cidade do Livro - Stage 2/3 <br>
   -> Country side of São Paulo - BR <br>
+  -> Contact e-mail: arthurmarquesoliveira001@gmail.com <br>
   -> Improving every day.
-  
+
 -------
 #### `` Technologies ``
   
@@ -37,7 +38,6 @@
 <div display="flex">
   <a href="https://www.instagram.com/m9arthur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arthur-marques-937148232/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://www.gmail.com/arthurmarquesoliveira001@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </div>
 
 <!--- ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg) --->
