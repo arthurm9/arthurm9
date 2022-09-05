@@ -1,9 +1,8 @@
-#### `` Hello World! ``  
-
-<h3 display="flex">Hi, i'm a systems development student!</h3>
+<h3 display="flex">Hey there!</h3>
+<h4 display="flex">I'm a systems development student</h3>
 
 -------
-#### `` Resume ``  
+#### `` Info's ``  
 
   🏫 Centro Paula Souza - ETEC Cidade do Livro - Stage 2/3 <br>
   📧 Contact e-mail: arthurmarquesoliveira001@gmail.com <br>
