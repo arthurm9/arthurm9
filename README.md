@@ -5,8 +5,8 @@
 -------
 #### `` Resume ``  
 
-  -> Centro Paula Souza - ETEC Cidade do Livro - Stage 2/3 <br>
-  -> Contact e-mail: arthurmarquesoliveira001@gmail.com <br>
+  🏫 Centro Paula Souza - ETEC Cidade do Livro - Stage 2/3 <br>
+  📧 Contact e-mail: arthurmarquesoliveira001@gmail.com <br>
 
 -------
 #### `` Learning ``
@@ -34,8 +34,12 @@
 #### `` Social ``
   
 <div display="flex">
-  <a href="https://www.instagram.com/m9arthur/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=purple"/></a>
-  <a href="https://www.linkedin.com/in/arthur-marques-937148232/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue"/></a> 
+  <a href="https://www.instagram.com/m9arthur/">
+    <img align="left" alt="Arthur's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-marques-937148232/">
+    <img align="left" alt="Arthur's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 </div>
 
 <!--- ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg) --->
