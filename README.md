@@ -4,8 +4,8 @@
 -------
 #### `` Info's ``  
 
-  🏫 Centro Paula Souza - ETEC Cidade do Livro - Stage 2/3 <br>
-  📧 Contact e-mail: arthurmarquesoliveira001@gmail.com <br>
+  🏫 CPS - ETEC Cidade do Livro - 2/3 <br>
+  📧 arthurmarquesoliveira001@gmail.com <br>
 
 -------
 #### `` Learning ``
