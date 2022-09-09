@@ -39,8 +39,8 @@
   <a href="https://www.linkedin.com/in/arthur-marques-937148232/">
     <img align="left" alt="Arthur's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://github.com/LucasVieiraS" alt="ProfileViews">
-    <img src="https://komarev.com/ghpvc/?username=LucasVieiraS&color=5D3FD3&style=for-the-badge"/>
+  <a href="https://github.com/arthurm9" alt="ProfileViews">
+    <img src="https://komarev.com/ghpvc/?username=arthurm9S&color=blue&style=for-the-badge"/>
   </a>
 </div>
 
