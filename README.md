@@ -1,8 +1,11 @@
 <h3 display="flex", align="center">Hey there!</h3>
 <h4 display="flex", align="center">I'm a systems development student</h3>
 <h5 display="flex", align="center"><i>do you want a portfolio? sorry i prefer to be discreet for a while...</i></h5>
-
--------
+<br>
+  <div align="center">
+    <img src="https://media0.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif"></img>
+  </div>
+  
 <!-- #### `` Learning ``
   
 <div display="flex">
@@ -26,13 +29,13 @@
   
 ------- -->
   
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.instagram.com/m9arthur/">
     <img align="center" alt="Arthur's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://www.linkedin.com/in/arthur-marques-937148232/">
     <img align="center" alt="Arthur's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-</div>
+</div> -->
 
-<!--- ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg) --->
+![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg)
