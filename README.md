@@ -1,5 +1,6 @@
-<h3 display="flex">Hey there!</h3>
-<h4 display="flex">I'm a systems development student</h3>
+<h3 display="flex", align="center">Hey there!</h3>
+<h4 display="flex", align="center">I'm a systems development student</h3>
+<h5 display="flex", align="center"><i>do you want a portfolio? sorry i prefer to be discreet for a while...</i></h5>
 
 -------
 #### `` Info's ``  
@@ -8,7 +9,7 @@
   📧 arthurmarquesoliveira001@gmail.com <br>
 
 -------
-#### `` Learning ``
+<!-- #### `` Learning ``
   
 <div display="flex">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,7 +30,7 @@
   <img src="https://img.shields.io/badge/Mx_Linux-10A0CC?style=for-the-badge&logo=mx-linux&logoColor=white">
 </div>
   
--------
+------- -->
 #### `` Social ``
   
 <div display="flex">
@@ -39,9 +40,9 @@
   <a href="https://www.linkedin.com/in/arthur-marques-937148232/">
     <img align="left" alt="Arthur's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://github.com/arthurm9" alt="ProfileViews">
+  <!-- <a href="https://github.com/arthurm9" alt="ProfileViews">
     <img src="https://komarev.com/ghpvc/?username=arthurm9S&color=blue&style=for-the-badge"/>
-  </a>
+  </a> -->
 </div>
 
 <!--- ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg) --->
