@@ -3,7 +3,7 @@
 <h5 display="flex", align="center"><i>do you want a portfolio? sorry i prefer to be discreet for a while...</i></h5>
 <br>
   <div align="center">
-    <img src="https://media0.giphy.com/media/vMSXa7KFGx49aeeXhe/giphy.gif"></img>
+    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   </div>
   
 <!-- #### `` Learning ``
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Mx_Linux-10A0CC?style=for-the-badge&logo=mx-linux&logoColor=white">
 </div>
+
+
   
 ------- -->
   
@@ -37,5 +39,17 @@
     <img align="center" alt="Arthur's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div> -->
+<br>
+<p align="center">
+<a href="https://twitter.com/lrdarthur" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/arthur-marques-de-oliveira-937148232/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/dephraiim" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.instagram.com/m9arthur/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
+</p>
 
+<h6 display="flex", align="center"><i>come back sir...</i></h5>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=violet&height=60&section=footer&width=100"/>
+</p>
 <!-- ![Snake animation](https://github.com/arthurm9/arthurm9/blob/output/github-contribution-grid-snake.svg) -->
