@@ -1,6 +1,5 @@
 <h3 display="flex", align="center">Hey there!</h3>
 <h4 display="flex", align="center">I'm a systems development student</h3>
-<h5 display="flex", align="center"><i>do you want a portfolio? sorry i prefer to be discreet for a while...</i></h5>
 <br>
   <div align="center">
     <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
